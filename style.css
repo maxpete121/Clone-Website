@@ -7,5 +7,7 @@
 .InfoCard {
     background-color: rgba(255, 166, 0, 0.536);
     border-radius: 20px;
-    width: 350px;
+    /* width: 350px; */
+    /* justify-self: center; */
+    
 }
